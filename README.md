@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @shahabmete
+- 👋 Hi there, I’m @shahabmete
 - 👀 I’m interested in Blockchain and Web3
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on open source projects
